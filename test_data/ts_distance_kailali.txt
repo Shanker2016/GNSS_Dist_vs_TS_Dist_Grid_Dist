@@ -1,0 +1,4 @@
+Point1			Point2			GroundDistance
+1003A			1003			157.237
+295				292				300.361
+160A			160B			80.589
